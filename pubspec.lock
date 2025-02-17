@@ -76,7 +76,7 @@ packages:
     source: sdk
     version: "0.0.0"
   get:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       name: get
       sha256: c79eeb4339f1f3deffd9ec912f8a923834bec55f7b49c9e882b8fef2c139d425
@@ -84,7 +84,7 @@ packages:
     source: hosted
     version: "4.7.2"
   getwidget:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       name: getwidget
       sha256: "91df14a8d80e21f3ec02759295b90cc8badb8a872b90d34ad4aeb4085d833b5c"

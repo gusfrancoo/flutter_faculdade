@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_faculdade/app/routes/app_pages.dart';
 import 'package:flutter_faculdade/app/routes/app_routes.dart';
-import 'package:flutter_faculdade/app/screens/login_screen.dart';
+import 'package:flutter_faculdade/app/screens/auth/login_screen.dart';
 import 'package:get/get.dart';
 
 
